@@ -5,14 +5,10 @@
         "node": true
     },
     "extends": "airbnb-base",
-    "overrides": [
-    ],
     "parserOptions": {
         "ecmaVersion": "latest"
     },
     "rules": {
-        "no-console": "off",
-        "indent": "off",
-        "linebreak-style": "off"
+        "linebreak-style": 0
     }
 }
